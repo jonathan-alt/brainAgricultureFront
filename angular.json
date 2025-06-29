@@ -69,8 +69,7 @@
               "sourceMap": false,
               "namedChunks": false,
               "extractLicenses": true,
-              "vendorChunk": false,
-              "inlineFonts": false
+              "vendorChunk": false
             },
             "development": {
               "buildOptimizer": false,
