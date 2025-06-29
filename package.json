@@ -14,8 +14,7 @@
     "test:coverage": "jest --coverage",
     "lint": "ng lint",
     "lint:fix": "ng lint --fix",
-    "e2e": "ng e2e",
-    "prepare": "husky install"
+    "e2e": "ng e2e"
   },
   "dependencies": {
     "@angular/animations": "^17.0.0",
