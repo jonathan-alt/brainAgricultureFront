@@ -4,8 +4,8 @@ node_modules/
 # Build
 /dist/
 
-# Ambiente Angular
-/src/environments/environment*.ts
+# Ambiente Angular (apenas desenvolvimento)
+/src/environments/environment.ts
 
 # Logs
 npm-debug.log*
