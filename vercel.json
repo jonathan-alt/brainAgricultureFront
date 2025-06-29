@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": "npm run vercel-build",
+  "outputDirectory": "dist/brain-agriculture",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "env": {
+    "apiUrl": "https://enthusiastic-youthfulness-production-48e5.up.railway.app/api/v1"
+  }
+}
