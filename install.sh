@@ -35,7 +35,7 @@ if [ ! -f "src/environments/environment.ts" ]; then
     cat > src/environments/environment.ts << EOF
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:8000/api/v1'
+  apiUrl: 'https://enthusiastic-youthfulness-production-48e5.up.railway.app/api/v1'
 };
 EOF
 fi

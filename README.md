@@ -69,7 +69,7 @@ npm install
 
 # Configurar ambiente
 # Editar src/environments/environment.ts
-# apiUrl: "http://localhost:8000/api/v1"
+# apiUrl: "https://enthusiastic-youthfulness-production-48e5.up.railway.app/api/v1"
 
 # Executar em desenvolvimento
 npm start
